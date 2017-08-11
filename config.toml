@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "Ehh"
+baseURL = "https:\/\/widgets.ehh.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
+firstPartyCookies = true
+cookieDomain = "ehh.com"
