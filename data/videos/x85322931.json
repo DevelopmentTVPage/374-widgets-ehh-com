@@ -1,0 +1,51 @@
+{
+    "conversion_score": null,
+    "CVV_VI": null,
+    "date_created": "1486671161",
+    "date_modified": "1486671161",
+    "description": "Once you're done with this, checkout lesson #2 - introduction to CSS: https:\/\/www.youtube.com\/watch?v=gBi8Obib0tw How to put your website online (with ...",
+    "duration": "847",
+    "engagement_score": "100",
+    "main_category": null,
+    "referenceId": "3JluqTojuME",
+    "sourceId": "4",
+    "status": "approved",
+    "sub_category": null,
+    "tags": null,
+    "title": "Web Development Tutorial for Beginners (#1) - How to build webpages with HTML, CSS, Javascript",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "visibility": "1",
+    "VV_VI": "22",
+    "id": "85322931",
+    "loginId": "1758904",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "85322389",
+    "asset": {
+        "type": "youtube",
+        "author": "LearnCode.academy",
+        "hdvFlag": 1,
+        "description": "Once you're done with this, checkout lesson #2 - introduction to CSS: https:\/\/www.youtube.com\/watch?v=gBi8Obib0tw How to put your website online (with ...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/3JluqTojuME\/hqdefault.jpg",
+        "videoId": "3JluqTojuME",
+        "mediaDuration": 847,
+        "prettyDuration": "00:14:07"
+    },
+    "category": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "settings": null,
+    "titleTextEncoded": "Web-Development-Tutorial-for-Beginners-1-How-to-build-webpages-with-HTML-CSS-Javascript",
+    "transcripts": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

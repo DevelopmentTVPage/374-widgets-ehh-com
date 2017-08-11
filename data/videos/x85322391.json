@@ -1,0 +1,52 @@
+{
+    "conversion_score": null,
+    "CVV_VI": null,
+    "date_created": "1486561821",
+    "date_modified": "1486664392",
+    "description": "Selamlar! Hoy les mostramos c\u00f3mo hacemos el caf\u00e9 turco y un postre muy secillo pero rico \"Bisk\u00fcvili Pasta\", el favorito de mi esposo. Nuestra tienda en l\u00ednea de ...",
+    "duration": "836",
+    "engagement_score": "57",
+    "main_category": null,
+    "referenceId": "AcbOH-lFGEU",
+    "sourceId": "4",
+    "status": "approved",
+    "sub_category": null,
+    "tags": "",
+    "title": "C\u00f3mo hacer caf\u00e9 turco + El postre favorito del turco - Bisk\u00fcvili Pasta | MEXICANA EN TURQUIA",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "visibility": "1",
+    "VV_VI": "11",
+    "id": "85322391",
+    "loginId": "1758904",
+    "entityType": "1",
+    "sortOrder": "22",
+    "entityIdParent": "85322389",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/AcbOH-lFGEU\/hqdefault.jpg",
+        "uploadDate": 1486561821,
+        "videoId": "AcbOH-lFGEU",
+        "title": "C\u00f3mo hacer caf\u00e9 turco + El postre favorito del turco - Bisk\u00fcvili Pasta | MEXICANA EN TURQUIA",
+        "description": "Selamlar! Hoy les mostramos c\u00f3mo hacemos el caf\u00e9 turco y un postre muy secillo pero rico \"Bisk\u00fcvili Pasta\", el favorito de mi esposo. Nuestra tienda en l\u00ednea de ...",
+        "author": "Gris Aminah En Turqu\u00eda",
+        "mediaDuration": 836,
+        "prettyDuration": "00:13:56",
+        "views": "3913"
+    },
+    "category": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "settings": "",
+    "titleTextEncoded": "C\u00f3mo-hacer-caf\u00e9-turco-El-postre-favorito-del-turco-Bisk\u00fcvili-Pasta-MEXICANA-EN-TURQUIA",
+    "transcripts": "",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}
