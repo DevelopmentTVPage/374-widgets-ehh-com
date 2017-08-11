@@ -1,0 +1,52 @@
+{
+    "conversion_score": null,
+    "CVV_VI": null,
+    "date_created": "1476074280",
+    "date_modified": "1486664392",
+    "description": "Un caf\u00e9? una boda? los invito a disfrutar un poco de lo que vivimos.",
+    "duration": "732",
+    "engagement_score": "10",
+    "main_category": null,
+    "referenceId": "z0J7cpXlxcc",
+    "sourceId": "4",
+    "status": "approved",
+    "sub_category": null,
+    "tags": "",
+    "title": "Vlog 001-C\u00f3mo hacer un caf\u00e9 y una boda",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "visibility": "1",
+    "VV_VI": "2",
+    "id": "85322441",
+    "loginId": "1758904",
+    "entityType": "1",
+    "sortOrder": "20",
+    "entityIdParent": "85322389",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/z0J7cpXlxcc\/hqdefault.jpg",
+        "uploadDate": 1476074280,
+        "videoId": "z0J7cpXlxcc",
+        "title": "Vlog 001-C\u00f3mo hacer un caf\u00e9 y una boda",
+        "description": "Un caf\u00e9? una boda? los invito a disfrutar un poco de lo que vivimos.",
+        "author": "Roberto Hernandez Sosa",
+        "mediaDuration": 732,
+        "prettyDuration": "00:12:12",
+        "views": "711"
+    },
+    "category": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "settings": "",
+    "titleTextEncoded": "Vlog-001-C\u00f3mo-hacer-un-caf\u00e9-y-una-boda",
+    "transcripts": "",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

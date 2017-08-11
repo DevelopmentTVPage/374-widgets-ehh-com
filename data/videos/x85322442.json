@@ -1,0 +1,52 @@
+{
+    "conversion_score": null,
+    "CVV_VI": null,
+    "date_created": "1475790462",
+    "date_modified": "1486664392",
+    "description": "",
+    "duration": "60",
+    "engagement_score": "10",
+    "main_category": null,
+    "referenceId": "kc0VK05rCu0",
+    "sourceId": "4",
+    "status": "approved",
+    "sub_category": null,
+    "tags": "",
+    "title": "C\u00f3mo hacer caf\u00e9 sin cafetera",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "visibility": "1",
+    "VV_VI": "2",
+    "id": "85322442",
+    "loginId": "1758904",
+    "entityType": "1",
+    "sortOrder": "19",
+    "entityIdParent": "85322389",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/kc0VK05rCu0\/hqdefault.jpg",
+        "uploadDate": 1475790462,
+        "videoId": "kc0VK05rCu0",
+        "title": "C\u00f3mo hacer caf\u00e9 sin cafetera",
+        "description": "",
+        "author": "Walmart Costa Rica",
+        "mediaDuration": 60,
+        "prettyDuration": "00:01:00",
+        "views": "855"
+    },
+    "category": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "settings": "",
+    "titleTextEncoded": "C\u00f3mo-hacer-caf\u00e9-sin-cafetera",
+    "transcripts": "",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

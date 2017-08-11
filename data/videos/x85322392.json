@@ -1,0 +1,52 @@
+{
+    "conversion_score": null,
+    "CVV_VI": null,
+    "date_created": "1486505422",
+    "date_modified": "1486664392",
+    "description": "Aqu\u00ed una peque\u00f1a muestra de c\u00f3mo hacer caf\u00e9 r\u00e1pido en una cafetera de Mr. Coffee.",
+    "duration": "309",
+    "engagement_score": "21",
+    "main_category": null,
+    "referenceId": "56935Qq0i2M",
+    "sourceId": "4",
+    "status": "approved",
+    "sub_category": null,
+    "tags": "",
+    "title": "C\u00f3mo hacer caf\u00e9 en una cafetera francesa de Mr. Coffee",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "visibility": "1",
+    "VV_VI": "4",
+    "id": "85322392",
+    "loginId": "1758904",
+    "entityType": "1",
+    "sortOrder": "21",
+    "entityIdParent": "85322389",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/56935Qq0i2M\/hqdefault.jpg",
+        "uploadDate": 1486505422,
+        "videoId": "56935Qq0i2M",
+        "title": "C\u00f3mo hacer caf\u00e9 en una cafetera francesa de Mr. Coffee",
+        "description": "Aqu\u00ed una peque\u00f1a muestra de c\u00f3mo hacer caf\u00e9 r\u00e1pido en una cafetera de Mr. Coffee.",
+        "author": "SinFormatoMX",
+        "mediaDuration": 309,
+        "prettyDuration": "00:05:09",
+        "views": "6"
+    },
+    "category": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "settings": "",
+    "titleTextEncoded": "C\u00f3mo-hacer-caf\u00e9-en-una-cafetera-francesa-de-Mr-Coffee",
+    "transcripts": "",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}

@@ -1,0 +1,52 @@
+{
+    "conversion_score": null,
+    "CVV_VI": null,
+    "date_created": "1473620662",
+    "date_modified": "1486664392",
+    "description": "video hecho en modo SARCASTICO y con SENTIDO DEL HUMOR PATOS PARA TODOS.",
+    "duration": "265",
+    "engagement_score": "21",
+    "main_category": null,
+    "referenceId": "R_rRtRWi3po",
+    "sourceId": "4",
+    "status": "approved",
+    "sub_category": null,
+    "tags": "",
+    "title": "Como Hacer Un CAFE - (HUMOR)",
+    "VIDEO_LENGTH": "LONG",
+    "video_type": null,
+    "visibility": "1",
+    "VV_VI": "5",
+    "id": "85322457",
+    "loginId": "1758904",
+    "entityType": "1",
+    "sortOrder": "4",
+    "entityIdParent": "85322389",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/R_rRtRWi3po\/hqdefault.jpg",
+        "uploadDate": 1473620662,
+        "videoId": "R_rRtRWi3po",
+        "title": "Como Hacer Un CAFE - (HUMOR)",
+        "description": "video hecho en modo SARCASTICO y con SENTIDO DEL HUMOR PATOS PARA TODOS.",
+        "author": "KTH Productions.",
+        "mediaDuration": 265,
+        "prettyDuration": "00:04:25",
+        "views": "41"
+    },
+    "category": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
+    "settings": "",
+    "titleTextEncoded": "Como-Hacer-Un-CAFE-HUMOR",
+    "transcripts": "",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null
+}
